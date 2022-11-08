@@ -1,3 +1,18 @@
+.Dictionary section {
+  background-color: #dbedf3;
+  padding: 30px;
+  border: #404b69 solid 2px;
+  border-radius: 10px;
+  box-shadow: 0 5px 5px rgb(0, 0, 0 / 10%);
+  margin: 16px 10px;
+}
+.Dictionary input {
+  width: 100%;
+  padding: 8px 5px;
+  border: #4d566e solid 0.5px;
+  border-radius: 6px;
+}
+
 .Dictionary {
   text-align: left;
 }
