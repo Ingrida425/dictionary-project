@@ -1,0 +1,16 @@
+.Meaning h3 {
+  font-size: 1.5rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+.Meaning .definition {
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+.Meaning .example {
+  font-style: italic;
+  quotes: initial;
+}
+.Meaning .paragraph {
+  padding: 10px;
+}
