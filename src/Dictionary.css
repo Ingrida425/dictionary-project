@@ -13,7 +13,11 @@
   border-radius: 6px;
   font-size: 1.3rem;
 }
-
+.Dictionary h1 {
+  color: #283149;
+  font-size: 1.3rem;
+  opacity: 0.8;
+}
 .Dictionary {
   text-align: left;
 }

@@ -1,0 +1,11 @@
+.Synonyms {
+  margin: 20px 0 0;
+}
+.Synonyms li {
+  display: inline;
+  margin-right: 15px;
+  font-weight: 600;
+  color: #283149;
+  opacity: 0.7;
+  text-decoration: underline;
+}
