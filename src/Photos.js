@@ -5,12 +5,12 @@ export default function Photos(props) {
   if (props.photos) {
     return (
       <section className="Photos">
-        <div className="row">
+        <div className="Row">
           {props.photos.map(function (photo, index) {
             return (
-              <div className="col-3" key={index}>
+              <div className="Column" key={index}>
                 <img
-                  src={photo.src.landscape}
+                  src={photo.src.small}
                   alt={photo.alt}
                   className="img-fluid"
                 />
